@@ -3,4 +3,6 @@
 This is a check box
 
 - [x] Completed task
-- [ ] Task in progress
+- [x] Task in progress
+- [ ] Not completed
+* [ ] another task
