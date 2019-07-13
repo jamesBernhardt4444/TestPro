@@ -1,7 +1,17 @@
 # Examples
 
 This is a example
-
+>Quote
 ```python
-print ("Hello
+def hello():
+    print ("Heelo")
+```
+
+### Title
+
+```swift
+
+func printHello() {
+    print("hello")
+}
 ```
